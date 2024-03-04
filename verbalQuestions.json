@@ -1,0 +1,82 @@
+[
+    {
+        "id":0,
+        "question": "What is the opposite of EXODUS",
+        "option1":"influx",
+        "option2":"home-coming",
+        "option3":"return",
+        "option4":"Restoration"
+    },
+    {
+        "id":1,
+        "question": "What is the opposite if RELINQUISH",
+        "option1":"Abdicate",
+        "option2":"Renounce",
+        "option3":"Possess",
+        "option4":"Deny"
+    },
+    {
+        "id":2,
+        "question": "Change the voice: Darjeeling grows tea.",
+        "option1":"Tea is being grown in Darjeeling.",
+        "option2":"Let the tea be grown in Darjeeling.",
+        "option3":"Tea is grown in Darjeeling.",
+        "option4":"Tea grows in Darjeeling."
+    },
+    {
+        "id":3,
+        "question": "Do you imitate others?",
+        "option1":"Are others being imitated by you?",
+        "option2":"Are others imitated by you?",
+        "option3":"Have others being imitated by you?",
+        "option4":"Were others being imitated by you?"
+    },
+    {
+        "id":4,
+        "question": "What is the synonym of AUGUST?", 
+        "option1":"Common",
+        "option2":"Ridiculous",
+        "option3":"Dignified",
+        "option4":"Petty"
+    },
+    {
+        "id":5,
+        "question": "What is the synonym of ADVERSITY",
+        "option1":"Failure",
+        "option2":"Helplessness",
+        "option3":"Misfortune",
+        "option4":"Crisis"
+    },
+    {
+        "id":6,
+        "question": "What is the Synonym of EMBEZZLE ",
+        "option1":"Misappropriate",
+        "option2":"Balance",
+        "option3":"Remunerate",
+        "option4":"Clear"
+    },
+    {
+        "id":7,
+        "question": "What is the synonym of VENT ?",
+        "option1":"Opening",
+        "option2":"Stodge",
+        "option3":"End",
+        "option4":"Past tense of go"
+    },
+    {
+        "id":8,
+        "question": "What is the antonym of COMMISSIONED ?",
+        "option1":"Started",
+        "option2":"Closed",
+        "option3":"Finished",
+        "option4":"Terminated"
+    },
+    {
+        "id":9,
+        "question":"What is the antonym of EXPAND ?",
+        "option1":"Convert",
+        "option2":"Condense",
+        "option3":"Congest",
+        "option4":"Conclude"
+    }
+]

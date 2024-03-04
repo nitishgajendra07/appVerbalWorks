@@ -1,0 +1,42 @@
+[
+    {
+        "q_id": 0 ,
+        "ans":"influx"
+    },
+    {
+        "q_id": 1 ,
+        "ans":"Possess"
+    },
+    {
+        "q_id":2  ,
+        "ans":"Tea is grown in Darjeeling."
+    },
+    {
+        "q_id": 3 ,
+        "ans":"Are others imitated by you?"
+    },
+    {
+        "q_id": 4 ,
+        "ans":"Dignified"
+    },
+    {
+        "q_id": 5 ,
+        "ans":"Misfortune"
+    },
+    {
+        "q_id": 6 ,
+        "ans":"Misappropriate"
+    },
+    {
+        "q_id": 7 ,
+        "ans":"Opening"
+    },
+    {
+        "q_id": 8 ,
+        "ans":"Terminated"
+    },
+    {
+        "q_id":9  ,
+        "ans":"Condense"
+    }
+]

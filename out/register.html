@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../style/styleRegister.css">
+</head>
+<body>
+  <div class="parent" >
+    <form>
+      <div>
+        <h1>Register</h1>
+        <div class="registerClass">
+          <label for="username"><b>Username</b></label>
+          <input
+            style="margin:5px"
+            type="text"
+            placeholder="Enter username"
+            name="username"
+            id="registerUsername"
+            required
+          /><br>
+  
+  
+  
+          <label for="pwd"><b>Password</b></label>
+          <input
+            style="margin:5px"
+            type="password"
+            placeholder="Enter Password"
+            
+            id="registerPassword"
+            required
+          /><br>
+  
+          <label for="pwd-confirm"><b>Confirm     </b></label>
+          <input style="margin:5px"
+            type="password"
+            placeholder="Confirm Password"
+            
+            id="confirmPassword"
+            required
+          /><br>
+  
+          <button style="margin:5px" type="submit" id="registerButton">Register</button>
+        </div>
+
+      </div>
+     
+      <div>
+        <p>Already have an account? <a href="index.html">Log in</a>.</p>
+      </div>
+    </form>
+  </div>
+    
+  <script src="appRegister.js" type="module"></script>
+</body>
+</html>
